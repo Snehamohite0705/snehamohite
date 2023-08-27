@@ -6,8 +6,8 @@
 <br>
 
 - 🌍 I'm from Budgam, Kashmir.
-- 💻 Web Developer | Photographer.
-- ✍️ Content Writer | Gamer.
+- 💻 Web Developer.
+- ✍️ Photographer.
 - 📝 Check out my articles on [LinkedIn](https://www.linkedin.com/in/muntazir-mehdi-b94657139/).
 <br>
 Here are some ideas to get you started:
