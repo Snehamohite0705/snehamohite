@@ -1,3 +1,9 @@
+<!-- <div align="center">
+    <img src="default.png" style=" height=150" alt="Matrix">
+</div> -->
+
+<h1 align="center">Hi 👋, I'm Muntazir Mehdi</h1>
+
 ### Hi there 👋 my name is xygum abbas
 
 <hr>
