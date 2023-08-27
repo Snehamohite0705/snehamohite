@@ -8,6 +8,6 @@
 - 🌍 I'm from Budgam, Kashmir.
 - 💻 Web Developer.
 - ✍️ Photographer.
-- 📝 Check out my articles on [LinkedIn](https://www.linkedin.com/in/muntazir-mehdi-b94657139/).
+- 📝 Check out my articles on [LinkedIn](https://www.linkedin.com/in/xygum-abbas-289a2623a/).
 <br>
 
