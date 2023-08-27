@@ -10,4 +10,4 @@
 - ✍️ Photographer.
 - 📝 Check out my articles on [LinkedIn](https://www.linkedin.com/in/muntazir-mehdi-b94657139/).
 <br>
-H
+
