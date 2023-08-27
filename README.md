@@ -1,7 +1,7 @@
 <!-- <div align="center">
 </div> -->
 
-<h1 align="center">Hi there 👋, I'm Muntazir Mehdi</h1>
+<h1 align="center">Hi there 👋, I'm Xygum Abbas</h1>
 <h2 align="left">💻 About Me:</h2>
 <br>
 
