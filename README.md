@@ -35,8 +35,5 @@
     <img src="https://img.icons8.com/ios-filled/48/ffffff/linkedin.png" alt="LinkedIn" height="60" width="60" style="margin-right: 40px;">
   </a>
   
-  <a href="https://www.youtube.com/@mehdiiwani?sub_confirmation=1">
-    <img src="https://img.icons8.com/ios-filled/48/ffffff/youtube-play.png" alt="YouTube" height="60" width="60">
-  </a>
 </p>
 
