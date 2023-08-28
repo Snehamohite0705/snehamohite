@@ -2,6 +2,7 @@
 </div> -->
 
 <h1 align="center">Hi there 👋, I'm Xygum</h1>
+
 <h2 align="left">💻 About Me:</h2>
 <br>
 
