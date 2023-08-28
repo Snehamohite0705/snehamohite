@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/ios-filled/48/ffffff/twitter.png" alt="Twitter" height="60" width="60" style="margin-right: 40px;">
   </a>
   <a href="https://www.instagram.com/abbas.xygum/">
-    <img src="https://img.icons8.com/ios-filled/48/ffffff/instagram-new.png" alt="Instagram" height="60" width="60" style="margin-right: 40px;">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" alt="Instagram" height="60" width="60" style="margin-right: 40px;">
   </a>
   
   <a href="https://linktr.ee/abbas.xygum">
