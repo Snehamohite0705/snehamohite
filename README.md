@@ -51,7 +51,7 @@
     <img src="https://img.icons8.com/7D7C7C/external-link.png" alt="Linktree" height="60" width="60" style="margin-right: 40px;">
   </a>
   
-  <a href="mailto:xygumabbas@gmail.com">
+  <a href="mailto:xygumabbas@gmail.com">  https://icons8.com/icon/48839/instagram
     <img src="https://img.icons8.com/ios-filled/48/7D7C7C/gmail.png" alt="Email" height="60" width="60" style="margin-right: 40px;">
   </a>
   
