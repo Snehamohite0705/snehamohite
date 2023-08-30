@@ -3,13 +3,13 @@
 
 <h1 align="center">Hi there 👋, I'm Xygum</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehdiiwani&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=abbasxygum&color=brightgreen)
 
 <p align="center">
             <a href="https://paytm.me/Jf-KpZI" target="_blank" class="button">
                 <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge">
             </a>    
-    <a href="https://www.linkedin.com/in/muntazir-mehdi-amaris1227/" class="button">
+    <a href="https://www.linkedin.com/in/xygum-abbas-289a2623a/" class="button">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn">
     </a>
 </p>
@@ -18,10 +18,10 @@
     <a href="https://www.youtube.com/@mehdiiwani?sub_confirmation=1" class="button">
         <img src="https://img.shields.io/badge/YouTube-Follow-%23FF0000?logo=youtube&style=for-the-badge&logoColor=white" alt="YouTube">
     </a>
-    <a href="https://instagram.com/mehdii.wani" class="button">
+    <a href="https://instagram.com/abbas.xygum/" class="button">
         <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://linktr.ee/mehdii.wani" class="button">
+    <a href="https://linktr.ee/abbas.xygum" class="button">
         <img src="https://img.shields.io/badge/Social-Links-%230077B5?logo=linktree&style=for-the-badge&logoColor=white" alt="Social Links">
     </a>
 </p>
