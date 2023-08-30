@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://twitter.com/AbbasXygum">
-    <img src="https://img.icons8.com/ios-filled/48/7D7C7C/twitter.png" alt="Twitter" height="60" width="60" style="margin-right: 40px;">
+    <img src="https://img.icons8.com/ios-filled/48/00acee/twitter.png" alt="Twitter" height="60" width="60" style="margin-right: 40px;">
   </a>
   <a href="https://www.instagram.com/abbas.xygum/">
     <img src="https://img.icons8.com/ios-filled/48/7D7C7C/instagram-new.png" alt="Instagram" height="60" width="60" style="margin-right: 40px;">
