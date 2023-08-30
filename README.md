@@ -44,7 +44,7 @@
     <img src="https://img.icons8.com/ios-filled/48/00acee/twitter.png" alt="Twitter" height="60" width="60" style="margin-right: 40px;">
   </a>
   <a href="https://www.instagram.com/abbas.xygum/">
-    <img src="https://img.icons8.com/ios-filled/48/000000/instagram-new.png" alt="Instagram" height="60" width="60" style="margin-right: 40px;">
+    <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" height="60" width="60" style="margin-right: 40px;">
   </a>
   
   <a href="https://linktr.ee/abbas.xygum">
