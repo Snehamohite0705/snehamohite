@@ -56,7 +56,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/xygum-abbas-289a2623a/">
-    <img src="https://img.icons8.com/ios-filled/48/7D7C7C/linkedin.png" alt="LinkedIn" height="60" width="60" style="margin-right: 40px;">
+    <img src="https://img.icons8.com/ios-filled/48/0072b1/linkedin.png" alt="LinkedIn" height="60" width="60" style="margin-right: 40px;">
   </a>
   
 </p>
