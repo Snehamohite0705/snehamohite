@@ -41,22 +41,22 @@
 
 <p align="center">
   <a href="https://twitter.com/AbbasXygum">
-    <img src="https://img.icons8.com/ios-filled/48/00acee/twitter.png" alt="Twitter" height="60" width="60" style="margin-right: 40px;">
+    <img src="https://img.icons8.com/ios-filled/48/7D7C7C/twitter.png" alt="Twitter" height="60" width="60" style="margin-right: 40px;">
   </a>
   <a href="https://www.instagram.com/abbas.xygum/">
-    <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" height="60" width="60" style="margin-right: 40px;">
+    <img src="https://img.icons8.com/ios-filled/48/7D7C7C/instagram-new.png" alt="Instagram" height="60" width="60" style="margin-right: 40px;">
   </a>
   
   <a href="https://linktr.ee/abbas.xygum">
     <img src="https://img.icons8.com/7D7C7C/external-link.png" alt="Linktree" height="60" width="60" style="margin-right: 40px;">
   </a>
   
-  <a href="mailto:xygumabbas@gmail.com">  
+  <a href="mailto:xygumabbas@gmail.com">
     <img src="https://img.icons8.com/ios-filled/48/7D7C7C/gmail.png" alt="Email" height="60" width="60" style="margin-right: 40px;">
   </a>
   
   <a href="https://www.linkedin.com/in/xygum-abbas-289a2623a/">
-    <img src="https://img.icons8.com/ios-filled/48/0072b1/linkedin.png" alt="LinkedIn" height="60" width="60" style="margin-right: 40px;">
+    <img src="https://img.icons8.com/ios-filled/48/7D7C7C/linkedin.png" alt="LinkedIn" height="60" width="60" style="margin-right: 40px;">
   </a>
   
 </p>
