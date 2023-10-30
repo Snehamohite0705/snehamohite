@@ -9,7 +9,7 @@
             <a href="https://paytm.me/Jf-KpZI" target="_blank" class="button">
                 <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge">
             </a>    
-    <a href="https://www.linkedin.com/in/xygum-abbas-289a2623a/" class="button">
+    <a href="https://www.linkedin.com/in/abbasxygum/" class="button">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn">
     </a>
 </p>
